@@ -1,0 +1,22 @@
+Label {
+    content-align: center middle;
+    height: 3;
+    width: 100%;
+}
+#Title {
+    background: blue 30%;
+    text-style: bold;
+    text-align: center;
+}
+Button {
+    margin: 1 2;
+}
+.label {
+    width: 1fr;
+}
+.input {
+    width: 4fr;
+}
+DataTable {
+    align: center top;
+}
